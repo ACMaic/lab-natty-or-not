@@ -9,10 +9,12 @@ Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas 
 
 ## 🧐 Processo de Criação
 Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Gamma App" foi usado para gerar imagens exclusivas para o nosso e-book.
-## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+## 🚀 Resultados
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Generativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+
+📘 **Acesse o e-book completo aqui:**  
+👉 [https://gamma.app/docs/O-Impacto-Revolucionario-das-IAs-Generativas-ejijrjh7k6z0sye](https://gamma.app/docs/O-Impacto-Revolucionario-das-IAs-Generativas-ejijrjh7k6z0sye)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
